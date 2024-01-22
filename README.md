@@ -1,1 +1,1 @@
-# file-upload-crud-laravel-vue3-inertia
+# file-upload-laravel-vue3-inertia
